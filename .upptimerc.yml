@@ -9,6 +9,8 @@ sites:
     url: http://www.qsim.t.u-tokyo.ac.jp
   - name: DX-GEM
     url: http://www.dx-gem.t.u-tokyo.ac.jp
+  - name: example site
+    url: https://example.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
