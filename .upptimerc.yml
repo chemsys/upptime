@@ -5,12 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Matfinder
     url: http://materinfo.de.r.appspot.com/upload/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Nakayama group
+    url: http://www.qsim.t.u-tokyo.ac.jp
+  - name: DX-GEM
+    url: http://www.dx-gem.t.u-tokyo.ac.jp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
