@@ -4,18 +4,20 @@
     "url": "http://materinfo.de.r.appspot.com/upload/",
     "icon": "https://icons.duckduckgo.com/ip3/materinfo.de.r.appspot.com.ico",
     "slug": "matfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2145,
-    "timeDay": 8887,
-    "timeWeek": 2414,
-    "timeMonth": 2145,
-    "timeYear": 2145,
-    "dailyMinutesDown": {}
+    "time": 3033,
+    "timeDay": 13071,
+    "timeWeek": 4269,
+    "timeMonth": 3033,
+    "timeYear": 3033,
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   },
   {
     "name": "Nakayama group",
