@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/materinfo.de.r.appspot.com.ico",
     "slug": "matfinder",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3033,
-    "timeDay": 13071,
-    "timeWeek": 4269,
-    "timeMonth": 3033,
-    "timeYear": 3033,
+    "uptime": "94.66%",
+    "uptimeDay": "32.37%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "94.66%",
+    "time": 2889,
+    "timeDay": 8848,
+    "timeWeek": 3604,
+    "timeMonth": 2889,
+    "timeYear": 2889,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-08": 6,
+      "2023-02-07": 968
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2185,
-    "timeDay": 1676,
-    "timeWeek": 2569,
-    "timeMonth": 2185,
-    "timeYear": 2185,
+    "time": 2186,
+    "timeDay": 2202,
+    "timeWeek": 2575,
+    "timeMonth": 2186,
+    "timeYear": 2186,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2167,
-    "timeDay": 1578,
-    "timeWeek": 2868,
-    "timeMonth": 2167,
-    "timeYear": 2167,
+    "time": 2105,
+    "timeDay": 1174,
+    "timeWeek": 2858,
+    "timeMonth": 2105,
+    "timeYear": 2105,
     "dailyMinutesDown": {}
   }
 ]
