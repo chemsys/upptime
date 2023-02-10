@@ -40,19 +40,19 @@
     "url": "http://matfinder.net/upload/",
     "icon": "https://icons.duckduckgo.com/ip3/matfinder.net.ico",
     "slug": "matfinder-net",
-    "status": "down",
-    "uptime": "20.48%",
-    "uptimeDay": "20.48%",
-    "uptimeWeek": "20.48%",
-    "uptimeMonth": "20.48%",
-    "uptimeYear": "20.48%",
-    "time": 1156,
-    "timeDay": 1156,
-    "timeWeek": 1156,
-    "timeMonth": 1156,
-    "timeYear": 1156,
+    "status": "up",
+    "uptime": "1.44%",
+    "uptimeDay": "1.44%",
+    "uptimeWeek": "1.44%",
+    "uptimeMonth": "1.44%",
+    "uptimeYear": "1.44%",
+    "time": 1260,
+    "timeDay": 1260,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2023-02-10": 0
+      "2023-02-10": 12
     }
   },
   {
