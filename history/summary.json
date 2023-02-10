@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 442,
+    "timeDay": 440,
+    "timeWeek": 442,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 977,
-    "timeDay": 977,
+    "timeDay": 0,
     "timeWeek": 977,
     "timeMonth": 977,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2023-02-09": 7,
+      "2023-02-10": 7,
+      "2023-02-09": 1440,
       "2023-02-08": 1257
     }
   },
@@ -50,12 +51,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 207,
-    "timeDay": 207,
+    "timeDay": 0,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-02-09": 7,
+      "2023-02-10": 7,
+      "2023-02-09": 1440,
       "2023-02-08": 1257
     }
   },
@@ -70,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2150,
-    "timeDay": 1865,
-    "timeWeek": 2457,
-    "timeMonth": 2150,
-    "timeYear": 2150,
+    "time": 2147,
+    "timeDay": 2087,
+    "timeWeek": 1898,
+    "timeMonth": 2147,
+    "timeYear": 2147,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dx-gem.t.u-tokyo.ac.jp.ico",
     "slug": "dx-gem",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.91%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2014,
-    "timeDay": 1528,
-    "timeWeek": 2088,
-    "timeMonth": 2014,
-    "timeYear": 2014,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1999,
+    "timeDay": 1729,
+    "timeWeek": 1588,
+    "timeMonth": 1999,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2023-02-08": 16
     }
