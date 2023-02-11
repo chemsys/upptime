@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7305,
-    "timeDay": 7305,
-    "timeWeek": 7305,
-    "timeMonth": 7305,
-    "timeYear": 7305,
+    "time": 5159,
+    "timeDay": 5159,
+    "timeWeek": 5159,
+    "timeMonth": 5159,
+    "timeYear": 5159,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3505,
-    "timeDay": 3505,
-    "timeWeek": 3505,
-    "timeMonth": 3505,
-    "timeYear": 3505,
+    "time": 5516,
+    "timeDay": 5516,
+    "timeWeek": 5516,
+    "timeMonth": 5516,
+    "timeYear": 5516,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matfinder.net.ico",
     "slug": "matfinder-net",
     "status": "up",
-    "uptime": "1.44%",
-    "uptimeDay": "1.44%",
-    "uptimeWeek": "1.44%",
-    "uptimeMonth": "1.44%",
-    "uptimeYear": "1.44%",
-    "time": 1260,
-    "timeDay": 1260,
-    "timeWeek": 1260,
-    "timeMonth": 1260,
-    "timeYear": 1260,
-    "dailyMinutesDown": {
-      "2023-02-10": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1583,
+    "timeDay": 1583,
+    "timeWeek": 1583,
+    "timeMonth": 1583,
+    "timeYear": 1583,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nakayama group",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2199,
-    "timeDay": 2637,
-    "timeWeek": 2041,
-    "timeMonth": 2199,
-    "timeYear": 2199,
+    "time": 2371,
+    "timeDay": 4505,
+    "timeWeek": 2472,
+    "timeMonth": 2371,
+    "timeYear": 2371,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1978,
-    "timeDay": 1642,
-    "timeWeek": 1585,
-    "timeMonth": 1978,
-    "timeYear": 1978,
+    "time": 1967,
+    "timeDay": 1644,
+    "timeWeek": 1599,
+    "timeMonth": 1967,
+    "timeYear": 1967,
     "dailyMinutesDown": {
       "2023-02-08": 16
     }
