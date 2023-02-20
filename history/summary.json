@@ -4,36 +4,40 @@
     "url": "http://materinfo.de.r.appspot.com/upload/",
     "icon": "https://icons.duckduckgo.com/ip3/materinfo.de.r.appspot.com.ico",
     "slug": "materinfo-de-r-appspot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3881,
-    "timeDay": 439,
-    "timeWeek": 4501,
-    "timeMonth": 3881,
-    "timeYear": 3881,
-    "dailyMinutesDown": {}
+    "time": 3572,
+    "timeDay": 304,
+    "timeWeek": 3960,
+    "timeMonth": 3572,
+    "timeYear": 3572,
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   },
   {
     "name": "matfinder.t.u-tokyo.ac.jp",
     "url": "http://matfinder.t.u-tokyo.ac.jp/upload/",
     "icon": "https://icons.duckduckgo.com/ip3/matfinder.t.u-tokyo.ac.jp.ico",
     "slug": "matfinder-t-u-tokyo-ac-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4322,
-    "timeDay": 2940,
-    "timeWeek": 4556,
-    "timeMonth": 4322,
-    "timeYear": 4322,
-    "dailyMinutesDown": {}
+    "time": 4055,
+    "timeDay": 2026,
+    "timeWeek": 4126,
+    "timeMonth": 4055,
+    "timeYear": 4055,
+    "dailyMinutesDown": {
+      "2023-02-20": 0
+    }
   },
   {
     "name": "matfinder.net",
