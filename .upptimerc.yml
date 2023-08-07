@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: matfinder.net
     url: https://matfinder.net/
+  - name: molegram
+    url: https://molegram.org
   - name: Nakayama group
     url: http://www.qsim.t.u-tokyo.ac.jp
   - name: DX-GEM
