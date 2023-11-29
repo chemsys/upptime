@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1012,
-    "timeDay": 330,
-    "timeWeek": 337,
-    "timeMonth": 591,
-    "timeYear": 1012,
+    "time": 1009,
+    "timeDay": 277,
+    "timeWeek": 334,
+    "timeMonth": 562,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2023-02-13": 26,
       "2023-02-11": 43
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.qsim.t.u-tokyo.ac.jp.ico",
     "slug": "nakayama-group",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 2101,
-    "timeDay": 1663,
-    "timeWeek": 1628,
-    "timeMonth": 2166,
-    "timeYear": 2101,
+    "uptimeYear": "100.00%",
+    "time": 2099,
+    "timeDay": 1547,
+    "timeWeek": 1656,
+    "timeMonth": 2141,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2023-03-10": 22
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1751,
-    "timeDay": 1287,
-    "timeWeek": 1392,
-    "timeMonth": 1609,
+    "timeDay": 1684,
+    "timeWeek": 1490,
+    "timeMonth": 1605,
     "timeYear": 1751,
     "dailyMinutesDown": {
       "2023-02-08": 16
