@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matfinder.net.ico",
     "slug": "matfinder-net",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 963,
-    "timeDay": 1156,
-    "timeWeek": 525,
+    "uptimeYear": "99.99%",
+    "time": 961,
+    "timeDay": 341,
+    "timeWeek": 523,
     "timeMonth": 458,
-    "timeYear": 963,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-02-13": 26,
       "2023-02-11": 43
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2088,
-    "timeDay": 2162,
-    "timeWeek": 1761,
-    "timeMonth": 1940,
-    "timeYear": 2088,
+    "time": 2086,
+    "timeDay": 1183,
+    "timeWeek": 1674,
+    "timeMonth": 1924,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2023-03-10": 22
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1756,
-    "timeDay": 1766,
-    "timeWeek": 1422,
-    "timeMonth": 1793,
-    "timeYear": 1756,
+    "time": 1754,
+    "timeDay": 1157,
+    "timeWeek": 1340,
+    "timeMonth": 1788,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2023-02-08": 16
     }
