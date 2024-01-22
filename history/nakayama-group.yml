@@ -1,7 +1,7 @@
 url: http://www.qsim.t.u-tokyo.ac.jp
-status: up
-code: 200
-responseTime: 1732
-lastUpdated: 2024-01-21T23:04:25.046Z
+status: down
+code: 503
+responseTime: 5185
+lastUpdated: 2024-01-22T02:04:20.491Z
 startTime: 2023-01-26T08:14:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
