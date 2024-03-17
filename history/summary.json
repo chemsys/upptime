@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 345,
-    "timeWeek": 310,
-    "timeMonth": 331,
-    "timeYear": 816,
+    "time": 863,
+    "timeDay": 330,
+    "timeWeek": 311,
+    "timeMonth": 330,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2195,
-    "timeDay": 3325,
-    "timeWeek": 3232,
-    "timeMonth": 3180,
+    "timeDay": 2102,
+    "timeWeek": 3191,
+    "timeMonth": 3150,
     "timeYear": 2207,
     "dailyMinutesDown": {
       "2024-01-22": 18
@@ -44,17 +44,15 @@
     "slug": "dx-gem",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1730,
-    "timeDay": 1390,
-    "timeWeek": 1577,
-    "timeMonth": 1759,
+    "time": 1729,
+    "timeDay": 1140,
+    "timeWeek": 1571,
+    "timeMonth": 1750,
     "timeYear": 1722,
-    "dailyMinutesDown": {
-      "2024-03-16": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
