@@ -42,19 +42,19 @@
     "url": "http://www.dx-gem.t.u-tokyo.ac.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.dx-gem.t.u-tokyo.ac.jp.ico",
     "slug": "dx-gem",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 1675,
-    "timeDay": 1575,
-    "timeWeek": 1440,
-    "timeMonth": 1519,
-    "timeYear": 1641,
+    "timeDay": 1717,
+    "timeWeek": 1517,
+    "timeMonth": 1541,
+    "timeYear": 1643,
     "dailyMinutesDown": {
-      "2024-06-10": 114
+      "2024-06-10": 119
     }
   }
 ]
