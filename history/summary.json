@@ -22,18 +22,19 @@
     "url": "http://www.qsim.t.u-tokyo.ac.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.qsim.t.u-tokyo.ac.jp.ico",
     "slug": "nakayama-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2298,
+    "time": 2300,
     "timeDay": 2574,
     "timeWeek": 3360,
     "timeMonth": 2736,
     "timeYear": 2370,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-01-22": 18
     }
   },
