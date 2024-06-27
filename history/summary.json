@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 366,
-    "timeWeek": 308,
-    "timeMonth": 503,
-    "timeYear": 539,
+    "time": 776,
+    "timeDay": 355,
+    "timeWeek": 315,
+    "timeMonth": 475,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "nakayama-group",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2300,
-    "timeDay": 2644,
-    "timeWeek": 3280,
-    "timeMonth": 2735,
-    "timeYear": 2371,
+    "timeDay": 2271,
+    "timeWeek": 3218,
+    "timeMonth": 2715,
+    "timeYear": 2372,
     "dailyMinutesDown": {
-      "2024-06-26": 6,
       "2024-01-22": 18
     }
   },
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 1695,
-    "timeDay": 2477,
-    "timeWeek": 2747,
-    "timeMonth": 1858,
-    "timeYear": 1679,
+    "time": 1694,
+    "timeDay": 1581,
+    "timeWeek": 2561,
+    "timeMonth": 1856,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2024-06-10": 114
     }
