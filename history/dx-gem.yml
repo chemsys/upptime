@@ -1,7 +1,7 @@
 url: http://www.dx-gem.t.u-tokyo.ac.jp
-status: up
-code: 200
-responseTime: 1288
-lastUpdated: 2025-02-19T23:05:01.823Z
+status: down
+code: 500
+responseTime: 3005
+lastUpdated: 2025-02-20T05:14:56.895Z
 startTime: 2023-01-26T08:14:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
