@@ -13,6 +13,8 @@ sites:
     url: https://kmu.github.io
   - name: Solubility
     url: http://modem.ucsd.edu/adme/databases/databases_logS.htm
+  - name: Molview
+    url: https://molview.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
