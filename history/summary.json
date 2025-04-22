@@ -88,18 +88,56 @@
     "icon": "https://icons.duckduckgo.com/ip3/modem.ucsd.edu.ico",
     "slug": "solubility",
     "status": "down",
-    "uptime": "66.77%",
-    "uptimeDay": "66.77%",
-    "uptimeWeek": "66.77%",
-    "uptimeMonth": "66.77%",
-    "uptimeYear": "66.77%",
+    "uptime": "14.08%",
+    "uptimeDay": "14.08%",
+    "uptimeWeek": "14.08%",
+    "uptimeMonth": "14.08%",
+    "uptimeYear": "14.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 3
+    }
+  },
+  {
+    "name": "Molview",
+    "url": "https://molview.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/molview.org.ico",
+    "slug": "molview",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Chemsys",
+    "url": "https://www.chemsys.t.u-tokyo.ac.jp/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.chemsys.t.u-tokyo.ac.jp.ico",
+    "slug": "chemsys",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-04-22": 1
     }
   }
 ]
