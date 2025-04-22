@@ -15,6 +15,8 @@ sites:
     url: http://modem.ucsd.edu/adme/databases/databases_logS.htm
   - name: Molview
     url: https://molview.org/
+  - name: Chemsys
+    url: https://www.chemsys.t.u-tokyo.ac.jp/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
