@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 365,
-    "timeWeek": 448,
-    "timeMonth": 393,
-    "timeYear": 469,
+    "time": 477,
+    "timeDay": 361,
+    "timeWeek": 437,
+    "timeMonth": 392,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2748,
-    "timeDay": 2210,
-    "timeWeek": 2927,
-    "timeMonth": 3036,
-    "timeYear": 2778,
+    "time": 2749,
+    "timeDay": 2153,
+    "timeWeek": 2829,
+    "timeMonth": 3007,
+    "timeYear": 2776,
     "dailyMinutesDown": {
       "2024-12-19": 21,
       "2024-08-23": 17
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2334,
-    "timeDay": 6202,
-    "timeWeek": 3726,
-    "timeMonth": 3264,
-    "timeYear": 2549,
+    "time": 2336,
+    "timeDay": 4862,
+    "timeWeek": 3554,
+    "timeMonth": 3232,
+    "timeYear": 2548,
     "dailyMinutesDown": {
       "2025-03-01": 22,
       "2024-06-10": 114
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kmu.github.io.ico",
     "slug": "kmu-github-io",
     "status": "up",
-    "uptime": "78.43%",
+    "uptime": "78.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.43%",
-    "uptimeYear": "78.43%",
-    "time": 147,
-    "timeDay": 112,
+    "uptimeMonth": "78.45%",
+    "uptimeYear": "78.45%",
+    "time": 146,
+    "timeDay": 120,
     "timeWeek": 136,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2025-04-11": 428,
       "2025-04-10": 1440,
@@ -88,18 +88,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/modem.ucsd.edu.ico",
     "slug": "solubility",
     "status": "down",
-    "uptime": "14.08%",
-    "uptimeDay": "14.08%",
-    "uptimeWeek": "14.08%",
-    "uptimeMonth": "14.08%",
-    "uptimeYear": "14.08%",
+    "uptime": "2.41%",
+    "uptimeDay": "2.41%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "2.41%",
+    "uptimeYear": "2.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 3
+      "2025-04-22": 20
     }
   },
   {
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 617,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 741,
+    "timeDay": 741,
+    "timeWeek": 741,
+    "timeMonth": 741,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   },
   {
@@ -137,7 +137,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 1
+      "2025-04-22": 18
     }
+  },
+  {
+    "name": "Colab",
+    "url": "https://colab.research.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/colab.research.google.com.ico",
+    "slug": "colab",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
+    "dailyMinutesDown": {}
   }
 ]
