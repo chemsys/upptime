@@ -35,7 +35,7 @@
     "uptimeYear": "100.00%",
     "time": 2832,
     "timeDay": 3392,
-    "timeWeek": 3214,
+    "timeWeek": 3180,
     "timeMonth": 2958,
     "timeYear": 2821,
     "dailyMinutesDown": {
@@ -55,8 +55,8 @@
     "uptimeYear": "100.00%",
     "time": 2871,
     "timeDay": 3052,
-    "timeWeek": 3709,
-    "timeMonth": 3014,
+    "timeWeek": 3876,
+    "timeMonth": 3011,
     "timeYear": 2962,
     "dailyMinutesDown": {
       "2025-03-01": 22
@@ -75,8 +75,8 @@
     "uptimeYear": "98.22%",
     "time": 124,
     "timeDay": 74,
-    "timeWeek": 129,
-    "timeMonth": 137,
+    "timeWeek": 128,
+    "timeMonth": 140,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-04-11": 428,
@@ -98,8 +98,8 @@
     "uptimeYear": "90.04%",
     "time": 271,
     "timeDay": 188,
-    "timeWeek": 189,
-    "timeMonth": 188,
+    "timeWeek": 179,
+    "timeMonth": 191,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-09-15": 467,
@@ -135,19 +135,19 @@
     "url": "https://molview.org/",
     "icon": "https://icons.duckduckgo.com/ip3/molview.org.ico",
     "slug": "molview",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 860,
-    "timeDay": 633,
-    "timeWeek": 774,
-    "timeMonth": 829,
-    "timeYear": 860,
+    "time": 859,
+    "timeDay": 600,
+    "timeWeek": 767,
+    "timeMonth": 823,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-09-24": 1,
+      "2025-09-24": 0,
       "2025-07-30": 44
     }
   },
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-24": 1385,
+      "2025-09-24": 1431,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -339,7 +339,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 113,
-    "timeWeek": 136,
+    "timeWeek": 140,
     "timeMonth": 171,
     "timeYear": 199,
     "dailyMinutesDown": {}
