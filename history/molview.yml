@@ -1,7 +1,7 @@
 url: https://molview.org/
-status: up
-code: 200
-responseTime: 607
-lastUpdated: 2025-10-16T23:05:10.645Z
+status: down
+code: 415
+responseTime: 363
+lastUpdated: 2025-10-17T15:27:25.140Z
 startTime: 2025-04-22T06:57:52.790Z
 generator: Upptime <https://github.com/upptime/upptime>
