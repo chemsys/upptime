@@ -11,14 +11,8 @@ sites:
     url: http://www.dx-gem.t.u-tokyo.ac.jp
   - name: kmu.github.io
     url: https://kmu.github.io
-  - name: Solubility
-    url: http://modem.ucsd.edu/adme/databases/databases_logS.htm
-  - name: Molview
-    url: https://molview.org/
   - name: Chemsys
     url: https://www.chemsys.t.u-tokyo.ac.jp/
-  - name: Colab
-    url: https://colab.research.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
