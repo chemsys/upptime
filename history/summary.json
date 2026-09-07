@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1488,
-    "timeDay": 3932,
-    "timeWeek": 3927,
-    "timeMonth": 2364,
-    "timeYear": 1780,
+    "time": 1487,
+    "timeDay": 376,
+    "timeWeek": 2395,
+    "timeMonth": 2077,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2025-10-02": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.82%",
-    "time": 2800,
-    "timeDay": 2019,
-    "timeWeek": 2041,
-    "timeMonth": 2362,
-    "timeYear": 2739,
+    "time": 2799,
+    "timeDay": 2469,
+    "timeWeek": 2077,
+    "timeMonth": 2350,
+    "timeYear": 2740,
     "dailyMinutesDown": {
       "2026-02-07": 28,
       "2026-02-23": 65,
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
-    "time": 3148,
-    "timeDay": 2808,
-    "timeWeek": 3243,
-    "timeMonth": 3065,
-    "timeYear": 3115,
+    "time": 3149,
+    "timeDay": 3374,
+    "timeWeek": 3293,
+    "timeMonth": 3100,
+    "timeYear": 3117,
     "dailyMinutesDown": {
       "2025-12-19": 85,
       "2026-02-07": 28,
@@ -99,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kmu.github.io.ico",
     "slug": "kmu-github-io",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 162,
-    "timeWeek": 139,
-    "timeMonth": 145,
+    "timeDay": 48,
+    "timeWeek": 121,
+    "timeMonth": 137,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-06": 129,
+      "2026-09-07": 127,
+      "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -491,8 +492,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
-      "2025-09-07": 1440
+      "2025-09-08": 1440
     }
   }
 ]
